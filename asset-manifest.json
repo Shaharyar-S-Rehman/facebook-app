@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/facebook-app/static/css/main.487cd0d2.chunk.css",
+    "main.js": "/facebook-app/static/js/main.fb7da6d5.chunk.js",
+    "main.js.map": "/facebook-app/static/js/main.fb7da6d5.chunk.js.map",
+    "runtime-main.js": "/facebook-app/static/js/runtime-main.64ed89f3.js",
+    "runtime-main.js.map": "/facebook-app/static/js/runtime-main.64ed89f3.js.map",
+    "static/js/2.5fd06046.chunk.js": "/facebook-app/static/js/2.5fd06046.chunk.js",
+    "static/js/2.5fd06046.chunk.js.map": "/facebook-app/static/js/2.5fd06046.chunk.js.map",
+    "index.html": "/facebook-app/index.html",
+    "static/css/main.487cd0d2.chunk.css.map": "/facebook-app/static/css/main.487cd0d2.chunk.css.map",
+    "static/js/2.5fd06046.chunk.js.LICENSE.txt": "/facebook-app/static/js/2.5fd06046.chunk.js.LICENSE.txt",
+    "static/media/download.3243d98f.webp": "/facebook-app/static/media/download.3243d98f.webp",
+    "static/media/mountain.018c8586.jpg": "/facebook-app/static/media/mountain.018c8586.jpg",
+    "static/media/profile.c3f94521.png": "/facebook-app/static/media/profile.c3f94521.png",
+    "static/media/share.132ed48d.png": "/facebook-app/static/media/share.132ed48d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ed89f3.js",
+    "static/js/2.5fd06046.chunk.js",
+    "static/css/main.487cd0d2.chunk.css",
+    "static/js/main.fb7da6d5.chunk.js"
+  ]
+}
